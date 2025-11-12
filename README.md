@@ -11,6 +11,11 @@ This game ended up being much more complicated than I thought. A ton of mechanic
 ### Source Code: https://github.com/bushnghiem/Project04
 ### Game Link: https://bushafd.itch.io/just-another-heist
 
+## Ice Melts
+A 2D Platformer with 3D Graphics made in Unity (My first Unity Game) and it was a project made during my time in my University's Video Game Development Club. I made this game in collaboration with several others which were members of our group Anti-Theft-System. I ended up taking a sort of lead role where I would assign tasks to the other members and make sure everyone had something to do as well as teach them some basics of game development and version control using Git/Github. For the game development portion, I primarily programmed a lot of the games mechanics with another member, I left level design and the 3D assets to other members.
+### Source Code: https://github.com/Darianlime/IceMelts
+### Game Link: https://elftmann1.itch.io/ice-melts
+
 ## Gravity
 My first UE5 Game where you play a first-person puzzle platformer; Kind of barebones as I mostly used the time to learn the basics of Unreal as I tried to make a 3D version of The Anti-Gravity. But a start nonetheless.
 ### Game Link: https://bushafd.itch.io/gravity
@@ -21,5 +26,5 @@ A 2D puzzle platformer with every asset made from scratch. The physics/game mech
 ### Game Link: https://bushafd.itch.io/the-anti-gravity
 
 ## Project 00
-My first game and what an experience it was. This game was the ultimate learning experiece as I learned more and more about game development, the game itself evolved and I made this a core part of the game. It is a 2D shoot-em-up where you pilot a spaceship and shoot down your enemies. There are three levels that each have different artstyles and mechanics that reflect the progress I was at in terms of being a game developer. 
+My first game and what an experience it was. This game was the ultimate learning experiece as I learned more and more about game development, the game itself evolved and I made this a core part of the game. It is a 2D shoot-em-up where you pilot a spaceship and shoot down your enemies. There are three levels that each have different artstyles and mechanics that reflect the progress I was at in terms of being a game developer. Made in Godot with all assets made from scratch.
 ### Game Link: https://bushafd.itch.io/project-00
