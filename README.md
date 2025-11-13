@@ -31,5 +31,6 @@ A 2D puzzle platformer with every asset made from scratch. The physics/game mech
 
 ## Project 00
 ![Project 00](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/Project00Icon.png?raw=true)
+
 My first game and what an experience it was. This game was the ultimate learning experiece as I learned more and more about game development, the game itself evolved and I made this a core part of the game. It is a 2D shoot-em-up where you pilot a spaceship and shoot down your enemies. There are three levels that each have different artstyles and mechanics that reflect the progress I was at in terms of being a game developer. Made in Godot with all assets made from scratch.
 ### Game Link: https://bushafd.itch.io/project-00
