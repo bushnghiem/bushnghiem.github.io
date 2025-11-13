@@ -20,7 +20,7 @@ This game ended up being much more complicated than I thought. A ton of mechanic
 ### Game Link: https://bushafd.itch.io/just-another-heist
 
 ## Ice Melts
-![Ice Melts](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/AntiGravityLogo.png?raw=true)
+![Ice Melts](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/IceMeltsLogo.png?raw=true)
 
 A 2D Platformer with 3D Graphics made in Unity (My first Unity Game) and it was a project made during my time in my University's Video Game Development Club. I made this game in collaboration with several others which were members of our group Anti-Theft-System. I ended up taking a sort of lead role where I would assign tasks to the other members and make sure everyone had something to do as well as teach them some basics of game development and version control using Git/Github. For the game development portion, I primarily programmed a lot of the games mechanics with another member, I left level design and the 3D assets to other members.
 ### Source Code: https://github.com/Darianlime/IceMelts
