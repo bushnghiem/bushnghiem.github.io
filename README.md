@@ -14,6 +14,7 @@ LinkedIn Profile: www.linkedin.com/in/bush-nghiem-2538b7293
 
 Made this game in 15 days for the Game Off 2025. It is a simple two button rhythm game where you pilot a wave particle drifting through space.
 I worked with a musician and a 2D artist and worked closely with them to get art that matched my vision for the game and it turned out pretty good.
+The only thing that kind of irks me is that I never found a good way to perfectly blend the particles movement between fast to slow/slow to fast.
 ### Source Code: https://github.com/bushnghiem/wave
 ### Game Link: https://bushafd.itch.io/waves-dont-die
 
