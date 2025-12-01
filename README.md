@@ -1,10 +1,11 @@
 # My Portfolio
 I am currently an Unreal Engine 5 Level Design Intern at Escape Enterprises
 Here are some screenshots of what I am working on currently
-![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00008.png?raw=true)
-![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00010.png?raw=true)
-![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00012.png?raw=true)
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00013.png?raw=true)
+![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00012.png?raw=true)
+![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00011.png?raw=true)
+![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00014.png?raw=true)
+![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00010.png?raw=true)
 
 LinkedIn Profile: www.linkedin.com/in/bush-nghiem-2538b7293
 
