@@ -3,6 +3,15 @@ I am currently an Unreal Engine 5 Level Design Intern at Escape Enterprises
 
 LinkedIn Profile: www.linkedin.com/in/bush-nghiem-2538b7293
 
+## Waves Don't Die
+![Waves Don't Die](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/WDDLogo.png?raw=true)
+
+Made this game in 15 days for the Game Off 2025. It is a simple two button rhythm game where you pilot a wave particle drifting through space.
+I worked with a musician and a 2D artist and worked closely with them to get art that matched my vision for the game and it turned out pretty good.
+### Source Code: https://github.com/bushnghiem/wave
+### Game Link: https://bushafd.itch.io/waves-dont-die
+https://github.com/bushnghiem/bushnghiem.github.io/blob/main/WDDLogo.png?raw=true
+
 ## L.O.O.P.S
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/LOOPSLogo.png?raw=true)
 
