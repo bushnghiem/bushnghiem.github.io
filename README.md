@@ -1,6 +1,6 @@
 # My Portfolio
-I am currently an Unreal Engine 5 Level Design Intern at Escape Enterprises
-Here are some screenshots of what I am working on currently
+I was an Unreal Engine 5 Level Design Intern at Escape Enterprises
+Here are some screenshots of what I worked on.
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00013.png?raw=true)
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00012.png?raw=true)
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00011.png?raw=true)
