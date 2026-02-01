@@ -13,7 +13,10 @@ the transition to 3D and the addition of a camera following the player made thin
 but strafing left and right while on the wall which in camera view, the wall is the left\right direction already, proved to be quite difficult to work around.
 The level design philosophy in this game also differs from the first slightly, I focused less on displaying the abilites strength by making previous sections difficulties obsolete with the new powers and tried to
 focus more on making a "sandbox" of sorts that would be engaging for the player to use these gravity powers to maneuver around while finding collectables scattered about if they wanted to. 
+### Source Code: https://github.com/bushnghiem/project06
+### Game Link: https://bushafd.itch.io/the-anti-gravity-3d
 
+## Escape Enterprises Internship
 I was an Unreal Engine 5 Level Design Intern at Escape Enterprises
 Here are some screenshots of what I worked on.
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00013.png?raw=true)
