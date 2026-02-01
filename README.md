@@ -1,4 +1,16 @@
 # My Portfolio
+LinkedIn Profile: www.linkedin.com/in/bush-nghiem-2538b7293
+
+## The Anti-Gravity 3D
+https://youtu.be/0-eb8Hs_QYo
+The Definitve 3D re-imagining of The Anti-Gravity made in Unreal Engine 5 and a culmination of everything I've learned so far. I am really happy with how I translated my 2D Sprites to 3D meshes in Blender and made
+use of Unreals materials, Niagara particles, etc, to create a 3D version of my previous game. I mostly reused all audio from the original Anti-Gravity, but I had to make some new ones for this game.
+But truly the hardest part was properly programming the movement and physics of the character. Which is a far cry from the original game where that was actually the easier part of making the game,
+the transition to 3D and the addition of a camera following the player made things much more complicated. In Unreal Engine 5, I had to work around their built in character movement system in C++ to emulate the way the character moves in the first one. But the true head scratcher was making the character move on the walls in a way that made sense to the player viewing the game through the camera. Because moving forwards and backwards always worked fine,
+but strafing left and right while on the wall which in camera view, the wall is the left\right direction already, proved to be quite difficult to work around.
+The level design philosophy in this game also differs from the first slightly, I focused less on displaying the abilites strength by making previous sections difficulties obsolete with the new powers and tried to
+focus more on making a "sandbox" of sorts that would be engaging for the player to use these gravity powers to maneuver around while finding collectables scattered about if they wanted to. 
+
 I was an Unreal Engine 5 Level Design Intern at Escape Enterprises
 Here are some screenshots of what I worked on.
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00013.png?raw=true)
@@ -6,8 +18,6 @@ Here are some screenshots of what I worked on.
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00011.png?raw=true)
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00014.png?raw=true)
 ![Escape](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/HighresScreenshot00010.png?raw=true)
-
-LinkedIn Profile: www.linkedin.com/in/bush-nghiem-2538b7293
 
 ## Waves Don't Die
 ![Waves Don't Die](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/WDDLogo.png?raw=true)
