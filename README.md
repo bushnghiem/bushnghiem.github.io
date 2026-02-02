@@ -28,8 +28,6 @@ Here are some screenshots of what I worked on.
 ## Waves Don't Die
 ![Waves Don't Die](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/WDDLogo.png?raw=true)
 
-### Watch Gameplay here https://youtu.be/LJD8qRyxwX0
-
 Made this game in 15 days for the Game Off 2025. It is a simple two button rhythm game where you pilot a wave particle drifting through space.
 I worked with a musician and a 2D artist and worked closely with them to get art that matched my vision for the game and it turned out pretty good.
 The only thing that kind of irks me is that I never found a good way to perfectly blend the particles movement between fast to slow/slow to fast.
@@ -69,8 +67,6 @@ My first UE5 Game where you play a first-person puzzle platformer; Kind of bareb
 
 ## The Anti-Gravity
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/AntiGravityLogo.png?raw=true)
-
-### Watch Gameplay here https://youtu.be/YT0EdPkVaBI
 
 A 2D puzzle platformer with every asset made from scratch. The physics/game mechanics were surprisingly easy to implement, so most of the time making this game was really the level design which I am especially proud of for this game. It is sort of metroidvania-like because it shows you sections that seem impossible at first but really you are just missing the powerup. My main focus for the level design here is to make difficult parts for the player to traverse, and after successfully passing the section and getting the powerup, the once difficult part becomes trivial with the new found ability.
 ### Source Code: https://github.com/bushnghiem/project01
