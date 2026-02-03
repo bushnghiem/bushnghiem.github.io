@@ -4,7 +4,7 @@ LinkedIn Profile: www.linkedin.com/in/bush-nghiem-2538b7293
 ## The Anti-Gravity 3D
 ![The Anti-Gravity 3D](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/Screenshot%202026-01-31%20210655.png?raw=true)
 
-### Watch Gameplay here https://youtu.be/0-eb8Hs_QYo
+### Watch Gameplay <a href="https://youtu.be/0-eb8Hs_QYo">HERE</a>
 
 The Definitve 3D re-imagining of The Anti-Gravity made in Unreal Engine 5 and a culmination of everything I've learned so far. I am really happy with how I translated my 2D Sprites to 3D meshes in Blender and made
 use of Unreals materials, Niagara particles, etc, to create a 3D version of my previous game. I mostly reused all audio from the original Anti-Gravity, but I had to make some new ones for this game.
