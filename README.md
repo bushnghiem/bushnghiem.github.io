@@ -1,5 +1,5 @@
 # My Portfolio
-<a href="www.linkedin.com/in/bush-nghiem-2538b7293">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/bush-nghiem-2538b7293/">LinkedIn Profile</a>
 
 ## The Anti-Gravity 3D
 ![The Anti-Gravity 3D](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/Screenshot%202026-01-31%20210655.png?raw=true)
