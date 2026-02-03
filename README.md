@@ -13,8 +13,8 @@ the transition to 3D and the addition of a camera following the player made thin
 but strafing left and right while on the wall which in camera view, the wall is the left\right direction already, proved to be quite difficult to work around.
 The level design philosophy in this game also differs from the first slightly, I focused less on displaying the abilites strength by making previous sections difficulties obsolete with the new powers and tried to
 focus more on making a "sandbox" of sorts that would be engaging for the player to use these gravity powers to maneuver around while finding collectables scattered about if they wanted to. 
-### Source Code: https://github.com/bushnghiem/project06
-### Game Link: https://bushafd.itch.io/the-anti-gravity-3d
+### Source Code: <a href="https://github.com/bushnghiem/project06">https://github.com/bushnghiem/project06</a>
+### Game Link: <a href="https://bushafd.itch.io/the-anti-gravity-3d">https://bushafd.itch.io/the-anti-gravity-3d</a>
 
 ## Escape Enterprises Internship
 I was an Unreal Engine 5 Level Design Intern at Escape Enterprises
@@ -33,8 +33,8 @@ Here are some screenshots of what I worked on.
 Made this game in 15 days for the Game Off 2025. It is a simple two button rhythm game where you pilot a wave particle drifting through space.
 I worked with a musician and a 2D artist and worked closely with them to get art that matched my vision for the game and it turned out pretty good.
 The only thing that kind of irks me is that I never found a good way to perfectly blend the particles movement between fast to slow/slow to fast.
-### Source Code: https://github.com/bushnghiem/wave
-### Game Link: https://bushafd.itch.io/waves-dont-die
+### Source Code: <a href="https://github.com/bushnghiem/wave">https://github.com/bushnghiem/wave</a>
+### Game Link: <a href="https://bushafd.itch.io/waves-dont-die">https://bushafd.itch.io/waves-dont-die</a>
 
 ## L.O.O.P.S
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/LOOPSLogo.png?raw=true)
