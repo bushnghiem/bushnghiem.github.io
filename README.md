@@ -28,6 +28,8 @@ Here are some screenshots of what I worked on.
 ## Waves Don't Die
 ![Waves Don't Die](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/WDDLogo.png?raw=true)
 
+### Watch Gameplay here https://youtu.be/LJD8qRyxwX0
+
 Made this game in 15 days for the Game Off 2025. It is a simple two button rhythm game where you pilot a wave particle drifting through space.
 I worked with a musician and a 2D artist and worked closely with them to get art that matched my vision for the game and it turned out pretty good.
 The only thing that kind of irks me is that I never found a good way to perfectly blend the particles movement between fast to slow/slow to fast.
@@ -37,6 +39,8 @@ The only thing that kind of irks me is that I never found a good way to perfectl
 ## L.O.O.P.S
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/LOOPSLogo.png?raw=true)
 
+### Watch Gameplay here https://youtu.be/V6jvyJT83jI
+
 Made this game in 3 days for the GMTK jam 2025. It is a arcadey/mobile type game where you protect a planet from threats.
 Every asset made from scratch (I reused some old ones I made) besides font
 ### Source Code: https://github.com/bushnghiem/loop
@@ -44,6 +48,8 @@ Every asset made from scratch (I reused some old ones I made) besides font
 
 ## Just Another Heist
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/JAHLogo.png?raw=true)
+
+### Watch Gameplay here https://youtu.be/RI94ncJEwew
 
 A stealth heist (secretly horror) game where you sneak through a well guarded mansion to obtain a strange item. The item gives you the ability to enter an alternate world where a monster chases you.
 This game ended up being much more complicated than I thought. A ton of mechanics I took for granted in other games ended up being way more complex with how much they intertwined such as the item/inventory system, enemy AI, stealth, save system, etc. Like seriously I didn't realize the save system needed to "memorize" every enemy location and state, every item location and state, and player status and inventory. Most of the time making this game was programming and designing the mechanics, so I ended up not making as many assets of my own this time and finding most of them online for free.
@@ -67,6 +73,8 @@ My first UE5 Game where you play a first-person puzzle platformer; Kind of bareb
 
 ## The Anti-Gravity
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/AntiGravityLogo.png?raw=true)
+
+### Watch Gameplay here https://youtu.be/YT0EdPkVaBI
 
 A 2D puzzle platformer with every asset made from scratch. The physics/game mechanics were surprisingly easy to implement, so most of the time making this game was really the level design which I am especially proud of for this game. It is sort of metroidvania-like because it shows you sections that seem impossible at first but really you are just missing the powerup. My main focus for the level design here is to make difficult parts for the player to traverse, and after successfully passing the section and getting the powerup, the once difficult part becomes trivial with the new found ability.
 ### Source Code: https://github.com/bushnghiem/project01
