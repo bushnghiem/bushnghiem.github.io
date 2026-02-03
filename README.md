@@ -1,5 +1,5 @@
 # My Portfolio
-LinkedIn Profile: www.linkedin.com/in/bush-nghiem-2538b7293
+<a href="www.linkedin.com/in/bush-nghiem-2538b7293">LinkedIn Profile</a>
 
 ## The Anti-Gravity 3D
 ![The Anti-Gravity 3D](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/Screenshot%202026-01-31%20210655.png?raw=true)
@@ -28,7 +28,7 @@ Here are some screenshots of what I worked on.
 ## Waves Don't Die
 ![Waves Don't Die](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/WDDLogo.png?raw=true)
 
-### Watch Gameplay here https://youtu.be/LJD8qRyxwX0
+### Watch Gameplay <a href="https://youtu.be/LJD8qRyxwX0">HERE</a>
 
 Made this game in 15 days for the Game Off 2025. It is a simple two button rhythm game where you pilot a wave particle drifting through space.
 I worked with a musician and a 2D artist and worked closely with them to get art that matched my vision for the game and it turned out pretty good.
@@ -39,7 +39,7 @@ The only thing that kind of irks me is that I never found a good way to perfectl
 ## L.O.O.P.S
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/LOOPSLogo.png?raw=true)
 
-### Watch Gameplay here https://youtu.be/V6jvyJT83jI
+### Watch Gameplay <a href="https://youtu.be/V6jvyJT83jI">HERE</a>
 
 Made this game in 3 days for the GMTK jam 2025. It is a arcadey/mobile type game where you protect a planet from threats.
 Every asset made from scratch (I reused some old ones I made) besides font
@@ -49,7 +49,7 @@ Every asset made from scratch (I reused some old ones I made) besides font
 ## Just Another Heist
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/JAHLogo.png?raw=true)
 
-### Watch Gameplay here https://youtu.be/RI94ncJEwew
+### Watch Gameplay <a href="https://youtu.be/RI94ncJEwew">HERE</a>
 
 A stealth heist (secretly horror) game where you sneak through a well guarded mansion to obtain a strange item. The item gives you the ability to enter an alternate world where a monster chases you.
 This game ended up being much more complicated than I thought. A ton of mechanics I took for granted in other games ended up being way more complex with how much they intertwined such as the item/inventory system, enemy AI, stealth, save system, etc. Like seriously I didn't realize the save system needed to "memorize" every enemy location and state, every item location and state, and player status and inventory. Most of the time making this game was programming and designing the mechanics, so I ended up not making as many assets of my own this time and finding most of them online for free.
@@ -59,7 +59,7 @@ This game ended up being much more complicated than I thought. A ton of mechanic
 ## Ice Melts
 ![Ice Melts](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/IceMeltsLogo.png?raw=true)
 
-### Watch Gameplay here https://youtu.be/sOBTJ-OqKyk
+### Watch Gameplay <a href="https://youtu.be/sOBTJ-OqKyk">HERE</a>
 
 A 2D Platformer with 3D Graphics made in Unity (My first Unity Game) and it was a project made during my time in my University's Video Game Development Club. I made this game in collaboration with several others which were members of our group Anti-Theft-System. I ended up taking a sort of lead role where I would assign tasks to the other members and make sure everyone had something to do as well as teach them some basics of game development and version control using Git/Github. For the game development portion, I primarily programmed a lot of the games mechanics with another member, I left level design and the 3D assets to other members.
 ### Source Code: https://github.com/Darianlime/IceMelts
@@ -74,7 +74,7 @@ My first UE5 Game where you play a first-person puzzle platformer; Kind of bareb
 ## The Anti-Gravity
 ![The Anti-Gravity](https://github.com/bushnghiem/bushnghiem.github.io/blob/main/AntiGravityLogo.png?raw=true)
 
-### Watch Gameplay here https://youtu.be/YT0EdPkVaBI
+### Watch Gameplay <a href="https://youtu.be/YT0EdPkVaBI">HERE</a>
 
 A 2D puzzle platformer with every asset made from scratch. The physics/game mechanics were surprisingly easy to implement, so most of the time making this game was really the level design which I am especially proud of for this game. It is sort of metroidvania-like because it shows you sections that seem impossible at first but really you are just missing the powerup. My main focus for the level design here is to make difficult parts for the player to traverse, and after successfully passing the section and getting the powerup, the once difficult part becomes trivial with the new found ability.
 ### Source Code: https://github.com/bushnghiem/project01
