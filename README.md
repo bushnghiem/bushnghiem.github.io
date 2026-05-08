@@ -54,6 +54,8 @@ The only thing that kind of irks me is that I never found a good way to perfectl
   <img src="https://github.com/bushnghiem/bushnghiem.github.io/blob/main/LOOPSLogo.png?raw=true">
 </a>
 
+Click image to watch gameplay.
+
 Made this game in 3 days for the GMTK jam 2025. It is a arcadey/mobile type game where you protect a planet from threats.
 Every asset made from scratch (I reused some old ones I made) besides font
 ### Source Code: <a href="https://github.com/bushnghiem/loop">https://github.com/bushnghiem/loop</a>
@@ -79,7 +81,6 @@ This game ended up being much more complicated than I thought. A ton of mechanic
 </a>
 
 Click image to watch gameplay.
-
 
 A 2D Platformer with 3D Graphics made in Unity (My first Unity Game) and it was a project made during my time in my University's Video Game Development Club. I made this game in collaboration with several others which were members of our group Anti-Theft-System. I ended up taking a sort of lead role where I would assign tasks to the other members and make sure everyone had something to do as well as teach them some basics of game development and version control using Git/Github. For the game development portion, I primarily programmed a lot of the games mechanics with another member, I left level design and the 3D assets to other members.
 ### Source Code: <a href="https://github.com/Darianlime/IceMelts">https://github.com/Darianlime/IceMelts</a>
@@ -113,6 +114,4 @@ A 2D puzzle platformer with every asset made from scratch. The physics/game mech
 
 Click image to view project.
 
-
 My first game and what an experience it was. This game was the ultimate learning experiece as I learned more and more about game development, the game itself evolved and I made this a core part of the game. It is a 2D shoot-em-up where you pilot a spaceship and shoot down your enemies. There are three levels that each have different artstyles and mechanics that reflect the progress I was at in terms of being a game developer. Made in Godot with all assets made from scratch.
-### Game Link: <a href="https://bushafd.itch.io/project-00">https://bushafd.itch.io/project-00</a>
